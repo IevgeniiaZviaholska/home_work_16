@@ -1,0 +1,36 @@
+.field {
+  border: none;
+  display: block;
+  width: 100%;
+  padding: 10px 15px;
+  font-size: 14px;
+  font-weight: normal;
+  border-radius: 0;
+  -webkit-appearance: none;
+  margin-bottom: 20px;
+  box-sizing: border-box;
+  
+  background: #ffffff;
+  }
+  
+  .field_primary {
+  border: 1px solid #e6e6eb;
+  border-radius: 4px;
+  }
+  
+  .field_primary:focus {
+  border-color: #595cff;
+  outline: none;
+  }
+  
+  .field_seconary {
+  border-bottom: 1px solid #e6e6eb;
+  }
+  
+  .field_seconary:focus {
+  border-bottom-color: #595cff;
+  outline: none;
+  }
+  textarea {
+    resize: vertical;
+}  

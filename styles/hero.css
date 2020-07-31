@@ -36,6 +36,7 @@
     font-size: 32px;
     color: #000000;
     line-height: 38px;
+
   }
   
   .hero__description {
@@ -45,5 +46,7 @@
     font-size: 18px;
     line-height: 22px;
     color: #000000;
+    padding-top: 20px;
+    padding-bottom: 40px;
   }
   

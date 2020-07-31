@@ -1,52 +1,8 @@
-.icon {
-  display: inline-block;
-  width: 1em;
-  height: 1em;
-  stroke-width: 0;
-  stroke: currentColor;
-  fill: currentColor;
-}
-
-/* ==========================================
-Single-colored icons can be modified like so:
-.icon-name {
-  font-size: 32px;
-  color: red;
-}
-========================================== */
-
-.icon-Text {
-  width: 2.0322265625em;
-}
-
-.icon-Triangle_up {
-  width: 1.5em;
-}
-
-.icon-Triangle_up1 {
-  width: 1.5em;
-}
-
-.icon-arrow {
-  width: 0.5712890625em;
-}
-
-.icon-arrow-1 {
-  width: 0.5712890625em;
-}
-
-.icon-arrow-2 {
-  width: 0.5830078125em;
-}
-
-.icon-arrow-3 {
-  width: 0.5830078125em;
-}
-
-.icon-arrow-4 {
-  width: 1.7138671875em;
-}
-
-.icon-arrow-5 {
-  width: 1.7138671875em;
+.icons {
+    display: inline-block;
+    width: 1em;
+    height: 1em;
+    stroke-width: 0;
+    stroke: currentColor;
+    fill: currentColor;
 }

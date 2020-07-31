@@ -1,0 +1,13 @@
+.icon-logo{
+    width: 111px;
+    height: 33px;
+    color: black;
+}
+.icon-logo a{
+    text-decoration: none;
+    
+}
+.icon-logo:hover{
+    fill: #D7D7D7;
+
+}
